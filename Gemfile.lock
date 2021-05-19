@@ -35,9 +35,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print!
+  hashie
+  octokit (~> 2.0)
   pry
   rspec
-  sinatra
+  sinatra (= 1.4.4)
 
 BUNDLED WITH
    2.0.1
